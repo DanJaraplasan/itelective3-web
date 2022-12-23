@@ -1,6 +1,14 @@
 #### itelective3-web
+## Table of Contents
+* [General Information](#general-information)
+* [System](#powered-by)
+* [Features](#features)
+* [Project Status](#project-status)
+* [Acknowledgements](#acknowledgement)
+* [Contact](#contact)
+
 ## **Payroll Management System**
-## General Infromation
+## General Information
 This program aims to automate and lessen the human mistakes of giving payroll to office workers. Ensures that not only the money will be secured but also the information of every employee. Increases efficiency by making the work out payroll calculations and deductions quicker. Finally, lessen the cost of hiring professionals to calculate, which may lead to mistakes in calculation.
 
 ## Powered By
